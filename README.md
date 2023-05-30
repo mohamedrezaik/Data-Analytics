@@ -1,6 +1,6 @@
 # Data-Analytics
 This repository has some projects on data analytics.
-## Lab1:
+## price prediction and statistical analysis:
   - It answers some question:
   - Question 1: Load in the provided dataset 20to22NYC.csv and summarize the basic statistics. Specifically your code should answer:
       - What are the feature types and their basic statistics (using describe(include='all'))
