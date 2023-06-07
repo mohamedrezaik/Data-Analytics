@@ -14,6 +14,7 @@ This repository has some projects on data analytics.
   - Question 4: Perform a multiple linear regression analysis on the given data, considering impact of missing values. Note, you need to properly transfer categorical features to numerical features first. Report the features that are significant relevant to sale price based on the results of your regression model. 
 
 ## topic_modeling:
+  - to view the complete visualized version [click_here](https://nbviewer.org/github/mohamedrezaik/Data-Analytics/blob/main/topic_modeling.ipynb)
   - Question 1: Load in the provided dataset and summarize the basic statistics. Specifically your code should answer:
     - What are the feature types and their basic statistics?
     - How many features have missing values?
